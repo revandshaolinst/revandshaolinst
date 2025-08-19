@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm 
+
+![REVANDX](img/header.png)
 
 <!--
 **revandshaolinst/revandshaolinst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning A full-stack dev
+
+![Mirip Sama Yang Liat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE2dms1eTdzMzV1cmUzazNkMWR4dHhyMXVvbmo3M2F2YmZkaWh4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bbshzgyFQDqPHXBo4c/giphy.gif)
