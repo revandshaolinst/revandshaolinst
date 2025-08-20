@@ -2,24 +2,9 @@
 
 ![REVANDX](img/header.png)
 
-<!--
-**revandshaolinst/revandshaolinst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 
 
@@ -34,6 +19,11 @@ Here are some ideas to get you started:
 ![B](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge
 )
 
+<div align="center">
+  <a href="https://open.spotify.com/user/31x7xtkn4gfpkztr27ajrdoukvcu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31x7xtkn4gfpkztr27ajrdoukvcu&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ![Mirip Sama Yang Liat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE2dms1eTdzMzV1cmUzazNkMWR4dHhyMXVvbmo3M2F2YmZkaWh4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bbshzgyFQDqPHXBo4c/giphy.gif)
 
@@ -41,3 +31,25 @@ Here are some ideas to get you started:
 
 ![RevandX GitHub stats](https://github-readme-stats.vercel.app/api?username=revandshaolinst&show_icons=true&theme=radical)
 
+
+###
+
+<h2 align="left">Play Game With Me</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revandshaolinst/revandshaolinst/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revandshaolinst/revandshaolinst/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/revandshaolinst/revandshaolinst/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
+###
+
+<img src="https://raw.githubusercontent.com/revandshaolinst/revandshaolinst/output/snake.svg" alt="Snake animation" />
+
+###
